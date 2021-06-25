@@ -1,0 +1,5 @@
+my_module.settings:
+  title: 'My Module'
+  parent: system.admin_config_services
+  description: 'Configure My Module.'
+  route_name: my_module.settings

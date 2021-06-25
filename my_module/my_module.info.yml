@@ -1,0 +1,6 @@
+name: My Module
+description: My Module
+type: module
+core_version_requirement: ^8.9 || ^9
+package: Ajlan
+configure: my_module.settings

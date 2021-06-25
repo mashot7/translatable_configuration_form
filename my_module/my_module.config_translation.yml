@@ -1,0 +1,5 @@
+my_module.settings:
+  title: 'My Module Settings'
+  base_route_name: my_module.settings
+  names:
+    - my_module.settings

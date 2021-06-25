@@ -1,0 +1,9 @@
+title: 'hello title'                # simple text field
+select: ''               # select field
+checkbox: FALSE          # boolean checkbox
+checkboxes: { }          # array of checkboxes
+radios: ''               # the value selected from radios
+message: 'barev message'              # content of textarea
+ckeditor:
+  value: ''              # ckeditor content
+  format: 'basic_html'   # ckeditor format
